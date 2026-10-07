@@ -1,6 +1,6 @@
 title: My Blog
 description: Writing for [module name]
-theme: minima
+theme: minimal
 
 # Show posts dated in the future. Delete this line to have them appear week by week.
 future: true
