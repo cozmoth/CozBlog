@@ -2,4 +2,4 @@
 layout: page
 title: About
 ---
-Write something about yourself here.
+Hello! i am Coral, online I go by Cozmoth!
