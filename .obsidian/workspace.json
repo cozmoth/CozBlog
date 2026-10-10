@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "_posts/2026-10-05-week-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2026-10-05-week-01"
             }
           }
         ]
@@ -188,14 +188,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "f67f8296b8e6e575",
+  "active": "f1e1770f289b2538",
   "lastOpenFiles": [
-    "assets/solarpunk.png",
-    "_posts/2026-10-05-week-01.md",
     "about.md",
     "index.md",
-    "README.md",
     "_templates/post.md",
+    "_posts/2026-10-05-week-01.md",
+    "day 1.md",
+    "assets/solarpunk.png",
+    "README.md",
     "assets/example.svg"
   ]
 }
